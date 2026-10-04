@@ -5,7 +5,7 @@ from schedule_optimizer import ranked_schedules
 from campus_map import check_travel_feasibility
 from event_manager import handle_dynamic_event, replan_schedule
 
-
+#測試有沒有改東西
 def print_courses(system):
     print("\nCourses")
     print("-" * 80)
